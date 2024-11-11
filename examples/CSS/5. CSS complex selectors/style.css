@@ -1,0 +1,20 @@
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.flag-part{
+    width: 400px;
+    height: 150px;
+}
+
+.rounded{
+    border-radius: 10%;
+}
