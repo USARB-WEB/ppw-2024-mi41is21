@@ -1,0 +1,27 @@
+span{
+    background-color: aqua;
+    display: inline;/* This will make the span element to be displayed inline */
+    border: 2px solid red;
+    width: 400px;
+    height: 300px;
+}
+
+
+div{
+    background-color: violet;
+    color: green;
+    border: 5px solid red;
+    width: 400px;
+    height: 300px;
+}
+
+
+
+.inline-block{
+    background-color: cyan;
+    color: green;
+    border: 5px solid red;
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+}
