@@ -1,0 +1,24 @@
+*{
+    background-color: red;
+}
+
+div{
+    background-color: lightcoral;
+}
+
+.block-element{
+    background-color: lightblue;
+}
+
+#special-block-element{
+    background-color: lightgreen;
+}
+
+span{
+    background-color: lightyellow;
+}
+
+.inline-element{
+    background-color: lightgray;
+}
+
