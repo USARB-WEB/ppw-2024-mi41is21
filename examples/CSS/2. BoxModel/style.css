@@ -1,0 +1,9 @@
+.css-box-model{
+    background-color: black;
+    color: green;
+    width: 300px;
+    height: 300px;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+}
