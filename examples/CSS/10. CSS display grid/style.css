@@ -1,0 +1,31 @@
+.element{
+    border: 1px solid red;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    height: 180px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 300px 200px 400px;
+}
+
+.grid-fractions{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.grid-fractions-row{
+    display: grid;
+    grid-template-rows: 100px 200px 300px;
+}
+
+
+.grid-gap{
+    display: grid;
+    grid-template-columns: 100px auto 100px;
+    grid-template-rows: 60px 600px;
+    gap: 100px;
+}
+
